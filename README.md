@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I like modelling and 3D printing 
+# Electronics and embedded systems too
 
 <!--
 **iforswitch/iforswitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
